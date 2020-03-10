@@ -1,0 +1,363 @@
+body {
+  background-image: url(../img/1.jpg);
+}
+
+#n {
+  color: #94B56A;
+}
+
+#brand {
+  color: white;
+}
+
+#arajin {
+  background-color: #2A3744;
+  padding-bottom: 8px;
+  padding-top: 8px;
+}
+
+#arajin2 li {
+  width: 5%;
+  display: inline-block;
+  padding-left: 40px;
+  padding-top: 15px;
+  font-size: 18px;
+  color: #C5D0DB;
+}
+
+#arajin3 {
+  width: 23px;
+  height: 23px;
+}
+
+#arajin4 {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  border-radius: 4px;
+}
+
+#arajin5 a {
+  color: #C5D0DB;
+  padding: 10px 13px;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+#erkrord {
+  background-image: url(../img/3.jpg);
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+#erkrord1 {
+  padding-left: 0;
+}
+
+#nkar1 {
+  border: 6px solid #9CA1A2;
+}
+
+#erkrord2 {
+  padding-left: 75px;
+}
+#erkrord2 p {
+  color: white;
+  font-size: 14px;
+}
+#erkrord2 a {
+  font-weight: 400;
+  text-decoration: none;
+  color: white;
+}
+#erkrord2 ul {
+  list-style: none;
+  padding-left: 0;
+}
+#erkrord2 ul li {
+  margin-left: 10px;
+  display: inline-block;
+}
+#erkrord2 ul li:nth-child(1) {
+  background-color: #F15274;
+  color: white;
+  padding: 10px 15px;
+  width: 26%;
+  font-size: 14px;
+  border-radius: 4px;
+}
+#erkrord2 ul li:nth-child(2) {
+  background-color: #58BDE7;
+  color: white;
+  padding: 10px 15px;
+  width: 19%;
+  font-size: 14px;
+  border-radius: 4px;
+}
+#erkrord2 ul li:nth-child(3) {
+  background-color: #89C245;
+  color: white;
+  padding: 10px 15px;
+  width: 26%;
+  font-size: 14px;
+  border-radius: 4px;
+}
+
+#errord {
+  padding-top: 15px;
+}
+
+#nkar2 {
+  border: 3px solid #656871;
+}
+
+#errord2 {
+  padding-left: 0;
+}
+#errord2 span {
+  font-size: 12px;
+  color: white;
+  padding-bottom: 10px;
+}
+
+#errord3 {
+  margin: 0;
+}
+#errord3 span {
+  font-size: 12px;
+  margin-left: 5px;
+  padding: 0px 4px;
+  border-radius: 3px;
+  background-color: #89C245;
+}
+
+#errord4 {
+  color: #656871;
+  font-style: italic;
+  font-size: 12px;
+}
+
+#chorord {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: white;
+}
+#chorord h4 {
+  font-size: 27px;
+  font-weight: 400;
+  color: #2e303a;
+  font-family: serif;
+}
+
+#hingerord {
+  background-color: white;
+  padding-bottom: 50px;
+}
+
+#date {
+  padding-bottom: 25px;
+  color: #A6A8B8;
+}
+
+#hingerord2 img {
+  padding-bottom: 25px;
+}
+#hingerord2 a {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+#hingerord2 p {
+  padding-top: 15px;
+}
+
+#vecerord {
+  background-color: white;
+  padding-bottom: 50px;
+  border-top: 1px solid #EEEEEE;
+  border-bottom: 1px solid #EEEEEE;
+}
+
+#vecerord1 {
+  padding-top: 40px;
+}
+
+#vecerord11 {
+  padding-top: 40px;
+  font-size: 27px;
+  font-weight: 400;
+}
+
+#yoterord {
+  background-color: white;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#yoterordd {
+  padding-bottom: 25px;
+  font-size: 27px;
+  font-weight: 400;
+  color: #2e303a;
+}
+
+#yoterord12 {
+  border: none;
+  padding-left: 10px;
+  padding-top: 12px;
+}
+
+#yoterord11 {
+  padding-left: 10px;
+  border-bottom: 1px solid #EEEEEE;
+}
+
+#yoterord1 {
+  padding-left: 10px;
+  padding-top: 12px;
+  border-bottom: 1px solid #EEEEEE;
+}
+
+#yoterord2 {
+  font-size: 13px;
+  color: #454757;
+}
+
+#yoterord22 {
+  font-size: 13px;
+  color: #454757;
+  padding-top: 15px;
+}
+
+#a {
+  font-size: 11px;
+  color: #9d9fb1;
+  text-transform: uppercase;
+}
+
+#m {
+  font-size: 28px;
+  font-family: serif;
+  color: #21aabd;
+}
+
+#yoterord4 {
+  color: #686B7E;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.meta {
+  color: #9d9fb1;
+}
+
+#uterord {
+  background-color: white;
+  padding-bottom: 70px;
+  padding-top: 40px;
+  border-top: 1px solid #EEEEEE;
+  border-bottom: 1px solid #C3CDCD;
+}
+
+#uterord1 {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+#innerord {
+  background-color: white;
+}
+#innerord button {
+  outline: none;
+  border: none;
+  position: absolute;
+  left: 45%;
+  top: -17px;
+  padding: 3px 23px;
+  color: #23ABBE;
+  background-color: white;
+  border: 1px solid #C3CDCD;
+}
+#innerord button:hover {
+  cursor: pointer;
+  color: white;
+  background-color: #23ABBE;
+}
+
+#taserord {
+  background-color: #F6F6F6;
+  padding-top: 30px;
+}
+#taserord ul {
+  list-style: none;
+}
+#taserord ul li {
+  display: inline-block;
+}
+
+#roz {
+  background-color: #eb5858;
+  color: white;
+  font-size: 14px;
+  padding: 2px 7px;
+  border-radius: 3px;
+}
+
+#roz1 {
+  color: #eb5858;
+  font-size: 14px;
+  font-weight: 400;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#kanach {
+  background-color: #89C245;
+  color: white;
+  font-size: 14px;
+  padding: 2px 7px;
+  border-radius: 3px;
+}
+
+#kanach1 {
+  color: #89C245;
+  font-size: 13px;
+  font-weight: bold;
+  padding-left: 8px;
+  padding-right: 10px;
+}
+
+#kap {
+  background-color: #58BDE7;
+  color: white;
+  font-size: 14px;
+  padding: 2px 7px;
+  border-radius: 3px;
+}
+
+#kap1 {
+  color: #58BDE7;
+  font-size: 13px;
+  font-weight: bold;
+  padding-left: 8px;
+  padding-right: 10px;
+}
+
+#taserord2 {
+  background-color: #F6F6F6;
+}
+#taserord2 ul {
+  list-style: none;
+}
+#taserord2 ul li {
+  display: inline-block;
+  color: #848484;
+  padding-left: 7px;
+  font-size: 13px;
+  font-weight: bold;
+}
+#taserord2 ul li:hover {
+  cursor: pointer;
+  color: #58BDE7;
+}
+
+/*# sourceMappingURL=style.css.map */
